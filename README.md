@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @biruksendeku
+- 👋 Hi, I’m biruksendeku
 - 👀 I’m interested in creating a SaaS products, but I haven't made one, yet.
 - 🌱 Skills: JavaScript, Express.js, React(beginner), HTML, CSS. I'm planning to learn Next.js real soon.
 - 💞️ I’m looking to collaborate on ...
